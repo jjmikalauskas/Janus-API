@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "dWeJnc/bsQPFKuegrEFTisg7CiETu8KVmfV8N3k5tKaG7kXNDL9vZahZyUSkMOEofh5fkxOg5a+VCekm0KTwVw==",
+  "success": true,
+  "projectFilePath": "H:\\Dev\\Janus\\API\\Janus-API\\Janus-API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\default.DESKTOP-GRQ62EF\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\default.DESKTOP-GRQ62EF\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\default.DESKTOP-GRQ62EF\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\default.DESKTOP-GRQ62EF\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\default.DESKTOP-GRQ62EF\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\default.DESKTOP-GRQ62EF\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
